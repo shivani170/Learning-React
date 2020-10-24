@@ -1,0 +1,29 @@
+.custombox{
+    width:162px;
+    background-color: #f2f4f7;
+}
+
+.control{
+    border:1px solid rgb(213, 223, 231) ;
+    width: 150px;
+    height: 30px;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 3px;
+    margin-left: 400px;
+    color: lightslategray;
+    cursor: pointer;
+
+}
+.options{
+    border:1px solid rgb(213, 223, 231) ;
+    margin-left: 400px;
+    width: 150px;
+    cursor: pointer;
+    text-align: center;
+    justify-items: center;
+    padding-top: 3px;
+  
+    color: lightslategray
+
+}
